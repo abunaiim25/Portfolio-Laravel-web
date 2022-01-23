@@ -20,8 +20,8 @@ Edit List
                     <th scope="col">#</th>
                     <th scope="col">Title 1</th>
                     <th scope="col">Title 2</th>
-                    <th scope="col">Image</th>
                     <th scope="col">Description</th>
+                    <th scope="col">Image</th>
                     <th scope="col">Action</th>
                   </tr>
                 </thead>

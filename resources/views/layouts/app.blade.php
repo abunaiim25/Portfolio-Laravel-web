@@ -16,6 +16,20 @@
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
+     {{-- <!--===============================================================================================-->	
+	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+    <link rel="stylesheet" type="text/css" href="{{ asset('logincreate')}}/vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('logincreate')}}/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('logincreate')}}/fonts/iconic/css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('logincreate')}}/vendor/animate/animate.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('logincreate')}}/vendor/css-hamburgers/hamburgers.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('logincreate')}}/vendor/animsition/css/animsition.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('logincreate')}}/vendor/select2/select2.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('logincreate')}}/vendor/daterangepicker/daterangepicker.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('logincreate')}}/css/util.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('logincreate')}}/css/main.css">
+--}}
+
     <!-- Styles -->
     <link href="{{ asset('css/bootstrap5.css') }}" rel="stylesheet">
 
